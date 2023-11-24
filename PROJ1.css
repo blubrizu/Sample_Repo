@@ -1,0 +1,29 @@
+body {
+	background-color: floralwhite;
+}
+
+table{
+	color: black;
+}
+table, td, th {
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid;
+	border-color: black;
+	padding: 10px;
+}
+
+th.days {
+	color: blue;
+}
+
+th.BF {
+	color: hotpink;
+}
+
+
+th.HEADER {
+	letter-spacing: 10;
+}
+
+
